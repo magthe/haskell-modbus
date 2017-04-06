@@ -1,10 +1,11 @@
-resolver: lts-7.18
+resolver: lts-8.8
 
 packages:
   - '.'
 
 extra-deps:
   - bitwise-0.1.1.1
+  - derive-2.6.2
 
 flags: {}
 
