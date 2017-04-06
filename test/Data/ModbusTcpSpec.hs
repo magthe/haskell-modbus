@@ -7,7 +7,7 @@ module Data.ModbusTcpSpec
 import Data.ByteString (ByteString, pack)
 import Data.DeriveTH
 import Data.Modbus
-import Data.ModbusTcp
+import Data.Modbus.Tcp
 import Data.Serialize
 import Test.Hspec
 import Test.Hspec.QuickCheck

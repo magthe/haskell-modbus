@@ -12,7 +12,7 @@ build-type:          Simple
 cabal-version:       >=1.10
 
 library
-  exposed-modules:     Data.Modbus, Data.ModbusRtu, Data.ModbusTcp, Data.Digest.CRC16
+  exposed-modules:     Data.Modbus, Data.Modbus.Rtu, Data.Modbus.Tcp, Data.Digest.CRC16
   -- other-modules:
   Default-Language:    Haskell2010
   ghc-options: -Wall

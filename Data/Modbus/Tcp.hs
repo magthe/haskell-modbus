@@ -1,4 +1,4 @@
-module Data.ModbusTcp
+module Data.Modbus.Tcp
   ( ModTcpRequestFrame(..)
   , ModTcpResponseFrame(..)
   ) where

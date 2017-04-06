@@ -1,4 +1,4 @@
-module Data.ModbusRtu
+module Data.Modbus.Rtu
   ( ModRequestFrame(..)
   , ModResponseFrame(..)
   , mkException
